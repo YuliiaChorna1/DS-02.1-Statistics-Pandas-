@@ -1,1 +1,1 @@
-{"name":{"1":"Michael","2":"John","3":"Liza"},"country":{"1":"Canada","2":"USA","3":"Australia"}}
+{"columns":["name","country"],"index":[1,2,3],"data":[["Michael","Canada"],["John","USA"],["Liza","Australia"]]}
